@@ -30,6 +30,7 @@ Neste vídeo fazemos uma comparação detalhada entre o Power BI e o Tableau, le
 {{< youtube "72QGMwv8HOk" >}}
 
 # Por que estudar Cálculo Numérico?
+
 O segundo produto foi um episódio de podcast no tema de **Matemática Computacional** em que espero convencê-los da importância de se estudar Cálculo Numérico.
 
 
